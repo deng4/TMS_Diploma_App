@@ -13,7 +13,7 @@ This is a simple, production-ready web application designed for your graduation 
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:deng4/TMS_Diploma_App.git #or git clone https://github.com/deng4/TMS_Diploma_App
 cd myapp
 ```
 
