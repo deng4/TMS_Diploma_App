@@ -5,8 +5,10 @@ It consists backend, frontend and db container
 ## Quickstart
 - do the git clone
 - to build project
-``` docker compose build
+```
+docker compose build
 ```
 - to run project do:
-```sh docker compose up -d
+```
+sh docker compose up -d
 ```
