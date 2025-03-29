@@ -10,5 +10,5 @@ docker compose build
 ```
 - to run project do:
 ```
-sh docker compose up -d
+docker compose up -d
 ```
