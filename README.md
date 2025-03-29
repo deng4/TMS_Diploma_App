@@ -1,14 +1,17 @@
-## Here is application you can use in your graduation project.
+# 🎓 Graduation Project: Full-Stack Dockerized Web App
 
-It consists backend, frontend and db container
+This is a simple, production-ready web application designed for your graduation project. It includes:
 
-## Quickstart
-- do the git clone
-- to build project
-```
-docker compose build
-```
-- to run project do:
-```
-docker compose up -d
-```
+- ✅ **Frontend** (React + NGINX)
+- ✅ **Backend** (Node.js + Express)
+- ✅ **Database** (PostgreSQL)
+- 🐳 All wrapped with Docker Compose
+
+---
+
+## 🚀 Quickstart
+
+### 1. Clone the Repository
+```bash
+git clone <your-repo-url>
+cd myapp
