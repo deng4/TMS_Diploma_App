@@ -44,8 +44,3 @@ docker-compose.override.yml
 # ----------------------------
 .DS_Store
 Thumbs.db
-
-# ----------------------------
-# 🌐 NGINX (if auto-generated or local-only)
-# ----------------------------
-frontend/nginx.conf
